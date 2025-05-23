@@ -2,9 +2,10 @@
 
 # JANJI
 
-Saya Muhammad Igin Adigholib dengan NIM 2301125 mengerjakan Tugas Praktikum 9 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Muhammad Igin Adigholib dengan NIM 2301125 mengerjakan Tugas Praktikum 10 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Desain Program
+![WhatsApp Image 2025-05-23 at 19 31 22_e09ee7b3](https://github.com/user-attachments/assets/9513b078-a0f1-4550-ae9a-43aa44b2d3d2)
 
 Aplikasi Mini Soccer Management System dirancang untuk mengelola data pengguna, lapangan, dan pemesanan lapangan mini soccer. Aplikasi ini menggunakan arsitektur Model-View-ViewModel (MVVM) untuk memisahkan logika bisnis, data, dan tampilan. Dengan pendekatan ini, aplikasi menjadi lebih terstruktur, mudah dipelihara, dan dapat dikembangkan lebih lanjut.
 
@@ -38,4 +39,8 @@ Aplikasi Mini Soccer Management System dirancang untuk mengelola data pengguna, 
    - Aplikasi menggunakan Bootstrap untuk memberikan tampilan yang modern dan responsif.
    - Navigasi utama memungkinkan pengguna untuk berpindah antara halaman pengguna, lapangan, dan pemesanan dengan mudah.
 
+## Dokumentasi
+
+
+https://github.com/user-attachments/assets/e51888d1-bb4d-4a43-bca7-529ca140a274
 
